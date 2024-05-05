@@ -1,0 +1,286 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LocalizationTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: a5c3a79ab509947ecbf8b391662f3cca, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 56387166208
+    m_Localized: PLAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1760339943424
+    m_Localized: TUTORIAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290557447364608
+    m_Localized: Welcome!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 318847524528128
+    m_Localized: 'By clicking the Accept button, you confirm that you have read and
+      accepted:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 318927535071232
+    m_Localized: Terms Of Service
+    m_Metadata:
+      m_Items: []
+  - m_Id: 318974427389952
+    m_Localized: Privacy Policy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319018970898432
+    m_Localized: Accept
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319072586686464
+    m_Localized: Deny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319106799624192
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319159844986880
+    m_Localized: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319225443901440
+    m_Localized: Previous
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319326941863936
+    m_Localized: '1. <color=#0FFF00>Movement:</color> Utilize the joystick located
+      in the lower-left corner to control your character''s movement.
+
+
+      2.
+      <color=#0FFF00>Firing:</color> Engage your weapon with the largest button found
+      in the lower-right corner of the screen.
+
+
+      3. <color=#0FFF00>Running:</color>
+      While moving with the joystick, hold down the designated run button to increase
+      your character''s speed.
+
+
+      4. <color=#0FFF00>Rolling:</color> Combine
+      joystick movement with a press of the run button to execute a rolling maneuver.
+
+
+      5.
+      <color=#0FFF00>Utility Items:</color> Access grenades and health kits by simply
+      tapping their respective buttons.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319337540870144
+    m_Localized: '6. <color=#0FFF00>Status Bars:</color> These bars represent your
+      current health and stamina.
+
+
+      7. <color=#0FFF00>Weapon Selection:</color>
+      Switch between weapons using the buttons located in the upper-right corner.
+
+
+      8.
+      <color=#0FFF00>Currency:</color> Keep track of your coin count here.
+
+
+      9.
+      <color=#0FFF00>Ammunition:</color> Your weapon reloads automatically.
+
+
+      10.
+      <color=#0FFF00>Knockback:</color> Safeguard yourself by pressing the knockback
+      button to repel nearby enemies.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319421309509632
+    m_Localized: Wave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319424262299648
+    m_Localized: Game Over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319426367840256
+    m_Localized: Waves Passed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319585378099200
+    m_Localized: Time Spent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319706060808192
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319743973122048
+    m_Localized: Revival (Watch Ad)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319833404071936
+    m_Localized: Retry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319916262547456
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319919710265344
+    m_Localized: Wave Completed!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319921622867968
+    m_Localized: Coins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320187273306112
+    m_Localized: BUY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320288016293888
+    m_Localized: WATCH AD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320290008588288
+    m_Localized: Remove all ads
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320291682115584
+    m_Localized: Get 15 coins by watching advertising
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320499434381312
+    m_Localized: Buy 150 coins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320501195988992
+    m_Localized: Gun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320502726909952
+    m_Localized: Convenient Pistol, has 5 shots and great for start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320709652897792
+    m_Localized: Hammer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320770428362752
+    m_Localized: Crash your enemies with the golden hammer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320772210941952
+    m_Localized: MachineGun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320773712502784
+    m_Localized: Machine Gun, quick shots, less damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320775235035136
+    m_Localized: Rocket Launcher
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320776799510528
+    m_Localized: Heavy rocket launcher. Ideal for big boss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321053539688448
+    m_Localized: Sword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321055401959424
+    m_Localized: Steve's Sword. Emenies already scared!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321056941268992
+    m_Localized: Bomb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321184427139072
+    m_Localized: Get 3 bombs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321284817805312
+    m_Localized: Bomb Damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321286508109824
+    m_Localized: Increase bomb damage by 30%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321287854481408
+    m_Localized: Bomb Radius
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321289062440960
+    m_Localized: Increase Bomb Explosion Radius
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321290454949888
+    m_Localized: Health Increase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321621792382976
+    m_Localized: Increase max health by 25%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321623453327360
+    m_Localized: Health Kit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321624917139456
+    m_Localized: Get 3 Health Kits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321786313957376
+    m_Localized: Health Kit HP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321863325573120
+    m_Localized: Increase Health Kit Power
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321990375235584
+    m_Localized: Increase Pistol's damage by 20%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322033396211712
+    m_Localized: Increase Hammer damage by 30%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322036588077056
+    m_Localized: Increase Machine Gun's damage by 20%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322039930937344
+    m_Localized: Increase Rocket Launcher's damage by 30%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322107870273536
+    m_Localized: Increase Sword damage by 30%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 332885901959168
+    m_Localized: Remove Ads
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

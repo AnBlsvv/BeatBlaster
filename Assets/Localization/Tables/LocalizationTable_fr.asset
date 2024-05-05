@@ -1,0 +1,263 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LocalizationTable_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: a5c3a79ab509947ecbf8b391662f3cca, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 56387166208
+    m_Localized: JOUER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1760339943424
+    m_Localized: TUTORIEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290557447364608
+    m_Localized: Bienvenue!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319916262547456
+    m_Localized: "Param\xE8tres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319326941863936
+    m_Localized: "1. <color=#0FFF00>D\xE9placement:</color> Utilisez le joystick
+      situ\xE9 dans le coin inf\xE9rieur gauche pour contr\xF4ler les d\xE9placements
+      de votre personnage.\n\n2. <color=#0FFF00>Tir:</color> Activez votre arme avec
+      le plus grand bouton situ\xE9 dans le coin inf\xE9rieur droit de l'\xE9cran.\n\n3.
+      <color=#0FFF00>Courir:</color> En d\xE9pla\xE7ant le joystick, maintenez enfonc\xE9
+      le bouton de course d\xE9sign\xE9 pour augmenter la vitesse de votre personnage.\n\n4.
+      <color=#0FFF00>Roulade:</color> Associez le mouvement du joystick \xE0 une
+      pression sur le bouton de course pour effectuer une man\u0153uvre de roulade.\n\n5.
+      <color=#0FFF00>Objets utilitaires:</color> Acc\xE9dez aux grenades et aux trousses
+      de sant\xE9 en appuyant simplement sur leurs boutons respectifs."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319337540870144
+    m_Localized: "6. <color=#0FFF00>Barres d'\xE9tat:</color> Ces barres repr\xE9sentent
+      votre sant\xE9 et votre endurance actuelles.\n\n7. <color=#0FFF00>S\xE9lection
+      d'armes:</color> Changez d'arme en utilisant les boutons situ\xE9s dans le
+      coin sup\xE9rieur droit.\n\n8. <color=#0FFF00>Monnaie:</color> Suivez votre
+      nombre de pi\xE8ces ici.\n\n9. <color=#0FFF00>Munitions:</color> Votre arme
+      se recharge automatiquement.\n\n10. <color=#0FFF00>Recul:</color> Prot\xE9gez-vous
+      en appuyant sur le bouton de repoussement pour repousser les ennemis proches."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 318847524528128
+    m_Localized: "En cliquant sur le bouton Accepter, vous confirmez avoir lu et
+      accept\xE9:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 318927535071232
+    m_Localized: Conditions d'utilisation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 318974427389952
+    m_Localized: "Politique de confidentialit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319018970898432
+    m_Localized: Accepter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319072586686464
+    m_Localized: Refuser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319106799624192
+    m_Localized: Suivant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319159844986880
+    m_Localized: Fermer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319225443901440
+    m_Localized: "Pr\xE9c\xE9dent"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319421309509632
+    m_Localized: Vague
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319424262299648
+    m_Localized: Fin du jeu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319426367840256
+    m_Localized: "Vagues Pass\xE9es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319585378099200
+    m_Localized: "Temps \xC8coul\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319706060808192
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319743973122048
+    m_Localized: "Relance (Publicit\xE9)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319833404071936
+    m_Localized: "R\xE9essayer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319919710265344
+    m_Localized: "Vague termin\xE9e!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319921622867968
+    m_Localized: "Pi\xE8ces"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320187273306112
+    m_Localized: ACHETER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320288016293888
+    m_Localized: "PUBLICIT\xC8"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320290008588288
+    m_Localized: "Supprimer toutes les publicit\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320291682115584
+    m_Localized: "Obtenez 15 pi\xE8ces en regardant une publicit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320499434381312
+    m_Localized: "Acheter 150 pi\xE8ces"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320501195988992
+    m_Localized: Pistolet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320502726909952
+    m_Localized: "Pistolet pratique, a 5 tirs et id\xE9al pour commencer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320709652897792
+    m_Localized: Marteau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320770428362752
+    m_Localized: "\xC9crasez vos ennemis avec le marteau dor\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320772210941952
+    m_Localized: Mitraillette
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320773712502784
+    m_Localized: "Mitraillette, tirs rapides, moins de d\xE9g\xE2ts"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320775235035136
+    m_Localized: Lance-roquettes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320776799510528
+    m_Localized: "Lance-roquettes lourd. Id\xE9al pour un gros boss"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321053539688448
+    m_Localized: "\xC9p\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321055401959424
+    m_Localized: "\xC9p\xE9e de Steve. Les ennemis ont d\xE9j\xE0 peur!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321056941268992
+    m_Localized: Bombe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321184427139072
+    m_Localized: Obtenez 3 bombes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321284817805312
+    m_Localized: "D\xE9g\xE2ts de la bombe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321286508109824
+    m_Localized: "Augmentez les d\xE9g\xE2ts de la bombe de 30%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321287854481408
+    m_Localized: Rayon de la bombe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321289062440960
+    m_Localized: Augmentez le rayon d'explosion de la bombe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321290454949888
+    m_Localized: "Augmentation de la sant\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321621792382976
+    m_Localized: "Augmentez la sant\xE9 maximale de 25%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321623453327360
+    m_Localized: "Trousse de sant\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321624917139456
+    m_Localized: "Obtenez 3 trousses de sant\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321786313957376
+    m_Localized: "Puissance de la trousse de sant\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321863325573120
+    m_Localized: "Augmentez la puissance de la trousse de sant\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321990375235584
+    m_Localized: "Augmentez les d\xE9g\xE2ts du pistolet de 20%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322033396211712
+    m_Localized: "Augmentez les d\xE9g\xE2ts du marteau de 30%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322036588077056
+    m_Localized: "Augmentez les d\xE9g\xE2ts de la mitraillette de 20%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322039930937344
+    m_Localized: "Augmentez les d\xE9g\xE2ts du lance-roquettes de 30%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322107870273536
+    m_Localized: "Augmentez les d\xE9g\xE2ts de l'\xE9p\xE9e de 30%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 332885901959168
+    m_Localized: "Supprimer les publicit\xE9s"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6779a0f97d1341259581279cb433b40, type: 3}
+  m_Name: 01GunWeapon
+  m_EditorClassIdentifier: 
+  itemName: Gun
+  nameKey:
+    m_TableReference:
+      m_TableCollectionName: GUID:a5c3a79ab509947ecbf8b391662f3cca
+    m_TableEntryReference:
+      m_KeyId: 320501195988992
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  prefab: {fileID: 1509416925549156319, guid: a2e051660762cbe4494c17a095a95e10, type: 3}
+  icon: {fileID: 21300000, guid: b63ae9151a91e4797a63f6a516738fc5, type: 3}
+  description: Convenient Pistol, has 5 shots and great for start
+  descriptionKey:
+    m_TableReference:
+      m_TableCollectionName: GUID:a5c3a79ab509947ecbf8b391662f3cca
+    m_TableEntryReference:
+      m_KeyId: 320502726909952
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  count: 0
+  costAmount: 0
+  upgradeType: 0
+  weaponType: 2
+  upgradeItems:
+  - {fileID: 11400000, guid: acdbdea78c88f4f14bf9dd81a474376b, type: 2}
+  references:
+    version: 2
+    RefIds: []

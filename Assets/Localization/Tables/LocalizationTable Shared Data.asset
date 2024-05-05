@@ -1,0 +1,252 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: LocalizationTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: LocalizationTable
+  m_TableCollectionNameGuidString: a5c3a79ab509947ecbf8b391662f3cca
+  m_Entries:
+  - m_Id: 56387166208
+    m_Key: play_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1760339943424
+    m_Key: tutorial_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290557447364608
+    m_Key: welcome_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 318847524528128
+    m_Key: privacy_description_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 318927535071232
+    m_Key: terms_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 318974427389952
+    m_Key: privacy_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319018970898432
+    m_Key: accept_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319072586686464
+    m_Key: deny_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319106799624192
+    m_Key: next_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319159844986880
+    m_Key: close_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319225443901440
+    m_Key: previous_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319326941863936
+    m_Key: tutorial_description01_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319337540870144
+    m_Key: tutorial_description02_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319421309509632
+    m_Key: wave_count_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319424262299648
+    m_Key: gameover_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319426367840256
+    m_Key: wavesPassed_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319585378099200
+    m_Key: timeSpent_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319706060808192
+    m_Key: menu_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319743973122048
+    m_Key: revival_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319833404071936
+    m_Key: retry_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319916262547456
+    m_Key: settings_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319919710265344
+    m_Key: waveCompleted_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319921622867968
+    m_Key: itemCoins_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320187273306112
+    m_Key: buy_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320288016293888
+    m_Key: wanchAd_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320290008588288
+    m_Key: removeAds_description_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320291682115584
+    m_Key: 15coins_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320499434381312
+    m_Key: 150coins_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320501195988992
+    m_Key: gun_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320502726909952
+    m_Key: description_gun_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320709652897792
+    m_Key: hammer_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320770428362752
+    m_Key: description_hummer_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320772210941952
+    m_Key: machineGun_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320773712502784
+    m_Key: description_machineGun_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320775235035136
+    m_Key: rocketLauncher_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320776799510528
+    m_Key: description_rocketLauncher_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321053539688448
+    m_Key: sword_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321055401959424
+    m_Key: description_sword_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321056941268992
+    m_Key: bomb_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321184427139072
+    m_Key: description_bomb_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321284817805312
+    m_Key: bombDamage_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321286508109824
+    m_Key: description_bombDamage_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321287854481408
+    m_Key: bombRadius_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321289062440960
+    m_Key: description_bombRadius_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321290454949888
+    m_Key: healthInc_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321621792382976
+    m_Key: description_healthInc_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321623453327360
+    m_Key: healthKit_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321624917139456
+    m_Key: description_healthKit_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321786313957376
+    m_Key: kitHP_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321863325573120
+    m_Key: description_kitHP_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321990375235584
+    m_Key: description_upgrade_gun_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322033396211712
+    m_Key: description_upgrade_hammer_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322036588077056
+    m_Key: description_upgrade_machineGun_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322039930937344
+    m_Key: description_upgrade_rocketLauncher_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322107870273536
+    m_Key: description_upgrade_sword_id
+    m_Metadata:
+      m_Items: []
+  - m_Id: 332885901959168
+    m_Key: removeAds_id
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6142098667748196376
+  references:
+    version: 2
+    RefIds:
+    - rid: 6142098667748196376
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1699533161483
